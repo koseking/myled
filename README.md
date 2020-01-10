@@ -6,10 +6,9 @@
 0を入力すると全て消灯します。
 
 # 方法
-
-  $ make  
-  $ sudo insmod myled.ko  
-  $ sudo chmod 666 /dev/myled0  
-  $ echo [0∼2] > /dev/myled0  
+    $ make  
+    $ sudo insmod myled.ko  
+    $ sudo chmod 666 /dev/myled0  
+    $ echo [0∼2] > /dev/myled0  
 
 # 動画URL
