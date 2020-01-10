@@ -9,3 +9,4 @@
     $ sudo chmod 666 /dev/myled0  
     $ echo [0∼2] > /dev/myled0  
 # 動画URL
+https://youtu.be/fNXWkI1u2i0
